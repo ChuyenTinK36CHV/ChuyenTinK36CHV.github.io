@@ -1996,13 +1996,16 @@ body.section-starthere header.header-main {
 	z-index: 10;
 }
 
+
 @media (max-width: 1023px) {
 .block--views-home-page-views-life-at-uva {
-	margin-top: 550px;
-	margin-bottom: 30px;
+	margin-top: 650px;
+	margin-bottom: 50px;
 	width: 96%;
 }
 }
+
+
 
 .block--views-home-page-views-life-at-uva .view-header {
 	margin: 0 auto 12px;
@@ -13388,8 +13391,8 @@ video#video-hero {
 #block-views-home-page-views-block-1
 {
 	background: #232D4B url("../img/blue_background_v2.jpg") no-repeat scroll 78% 50%;
-	padding: 30px 0 60px 0;
-	margin-bottom: 80px;
+	padding: 60px 0 60px 0;
+	margin-bottom: 200px;
 	background-size: cover;
 }
 
